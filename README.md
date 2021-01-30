@@ -6,3 +6,4 @@ yılanın başı olarak adlandırılan kare her geçtiği kareye kendi uzunluk d
 her döngüde 0 değerli ve -1 değerli kareler dışındaki her karenin değeri 1 azaltılır.
 yılanın başı ile yem aynı koordinatlarda ise uzunluk 1 arttırılır.
 yılanın başı harekete ettiği yerdeki değer 1 den büyük ise kendini yemiştir ve bu yüzden oyun biter.
+kodu çalıştırmak için processing indirmeniz gerekiyor.https://processing.org/download/
